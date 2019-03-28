@@ -26,5 +26,10 @@ namespace SchoolManagementSystem.Controllers
 
             return View();
         }
+
+        public ActionResult Portfolio()
+        {
+            return View();
+        }
     }
 }
